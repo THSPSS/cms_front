@@ -1,0 +1,22 @@
+#top {
+    position: relative;
+    width: 1000px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+#top h3 {
+    position: absolute;
+    top: 25px;
+    left: 40px;
+    font-size: 16px;
+}
+
+#top #top_menu {
+    float: right;
+    margin: 30px 60px 0 0;
+}
+
+#top #top_menu li {
+    display: inline;
+}

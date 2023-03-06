@@ -1,0 +1,9 @@
+#main_img_bar {
+    height: 230px;
+    text-align: center;
+    background-color: #2092aa;
+}
+
+#main_img_bar img {
+    margin-top: 30px;
+}

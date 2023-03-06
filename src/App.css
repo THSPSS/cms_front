@@ -1,0 +1,13 @@
+/* 마진 패딩 초기화 */
+* { padding: 0; margin: 0; }
+/* 페이지 기본 글꼴과 크기 설정 */
+body { font-family: "돋움";   font-size: 14px; }
+img { border: 0;}
+ul { list-style-type: none; }
+/* <a> 태그 기본 설정 */
+a { display: inline-block; text-decoration: none; }
+a:link { text-decoration:none; color: #222222; }
+a:hover { text-decoration:none; color: #222222; }
+a:visited { text-decoration:none; color: #222222; }
+a:active { text-decoration:none; color: #222222; }
+button {border: none; background-color: none; cursor: pointer;}
